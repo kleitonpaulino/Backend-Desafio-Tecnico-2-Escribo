@@ -1,0 +1,17 @@
+{
+  "name": "backend-desafio-tecnico-2-escribo",
+  "version": "1.0.0",
+  "description": "Desafio técnico para seleção da Escribo",
+  "main": "autenticacao_de_usuario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "api",
+    "rest"
+  ],
+  "author": "Kleiton Paulino da Silva",
+  "license": "ISC"
+}
